@@ -1,7 +1,7 @@
 const MAX_EYE = 5;
 const MAX_NOSE = 4;
 const MAX_MOUTH = 3;
-const MAX_PUMPKIN = 4;
+const MAX_PUMPKIN = 3;
 
 const IMAGES_PATH = './images';
 const EYE_PATH = IMAGES_PATH + '/eye';

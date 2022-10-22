@@ -1,5 +1,5 @@
 # Jack-o-lantern-generator
-Jack-o'-lantern generator
+Jack-o'-lantern generator, [play here](https://afnecors.org/Jack-o-lantern-generator/)!
 
 ![Demo](images/demo.gif)
 
